@@ -2,3 +2,20 @@ baseURL = 'https://rakk0o.aphorya.fr/'
 languageCode = 'en-us'
 title = 'RaKk0o'
 theme="hugo-profile"
+
+[params]
+  author = "Clemence Faligot"
+  description = "This is the place where I put things I learned and I want to share with the world."
+  github = "RaKk0o"
+  linkedin = "clémence-faligot"
+  email = "clemence.faligot@viacesi.fr"
+  avatar = "/img/avatar.png"
+  url = "https://rakk0o.aphorya.fr"
+  keywords = "blog"
+  rss = true
+  lastmod = true
+  favicon = "/img/logo.png"
+  location = "France"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
