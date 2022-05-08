@@ -1,3 +1,7 @@
 [submodule "rakk0oblog/public"]
 	path = rakk0oblog/public
 	url = git@github.com:RaKk0o/rakk0o.github.io.git
+
+[submodule "rakk0oblog/themes/hugo-profile"]
+	path = rakk0oblog/themes/hugo-profile
+	url = https://github.com/gurusabarish/hugo-profile.git
