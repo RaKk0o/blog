@@ -11,7 +11,7 @@ tags:
 
 Hephaestus makes legendary weapons and equipment, and with the help of Hermes, his business is flourishing. Hermes wanted to establish himself in Egypt and managed to take over the administration and management of Hephaestus' sales. He then wishes to exploit the data collected by Hephaestus during the last centuries in order to increase the sales.
 
-## Problematic
+## Problem
 
 How can Hermès increase sales?
 

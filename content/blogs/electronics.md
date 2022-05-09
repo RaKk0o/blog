@@ -11,7 +11,7 @@ tags:
 
 The MI7 spy agency asked us to work on a new generation safe with increased authentication mechanisms. Thus, there would be several electronic cards with their own number. These cards could then activate the authentication system, which is composed of several authentication levels.
 
-## Problematic
+## Problem
 
 How to make a card able to secure authentication?
 

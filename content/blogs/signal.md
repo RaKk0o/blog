@@ -11,7 +11,7 @@ tags:
 
 Agent K17 has infiltrated the secret base of major web hackers and managed to steal information from them but unfortunately is stuck in a conference room. He must transmit the information and send the emergency code "ESCAPE K17" without being detected. 
 
-## Problematic
+## Problem
 
 How to pass a message that must be undetectable through a microphone used by a a third party?
 

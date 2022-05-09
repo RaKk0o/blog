@@ -11,7 +11,7 @@ tags:
 
 Our team has just joined the software publisher ProSoft. We have to develop a backup software under the responsibility of the CIO. This backup software is part of the "EasySave" project, so it is our responsibility to manage this project.
 
-## Problematic
+## Problem
 
 How to make multiple secure backups?
 
