@@ -180,9 +180,13 @@ params:
   achievements:
     enable: true
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
+      - title: Cisco CCNA1
+        content: Obtained on 05/02/2021.
+        url: https://drive.google.com/file/d/1vcvTn1GfK8FJ6660m45GcfArKIjkxuOn/view?usp=sharing
+      
+      - title: BIA
+        content: Aeronautical initiation certificate.
+        # url: 
 
 
   # projects
