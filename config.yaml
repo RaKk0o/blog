@@ -153,7 +153,7 @@ params:
           - Created a frontend design for a product.
 
   # Experience
-  Experience:
+  experience:
     enable: true
     items:
       - job: "Senior Software Developer"
@@ -186,41 +186,23 @@ params:
     enable: true
     # index: true
     items:
-      - title: "Master of Business Administration"
+      - title: "Engineering diploma in Computer Science"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "CESI"
+          url: "https://www.cesi.fr/"
+        date: "In progress since 2019"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          During these years I was able to realize several projects (which are detailed below), which allowed me to acquire several technical skills, but also personal. 
+          Indeed, all the projects are done in group and end with a presentation, which trains us in project management and oral expression.
+      - title: "High School diploma in sciences"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "Collège Lycée Mabillon"
+          url: "http://mabillon.net/spip/spip.php?rubrique1"
+        date: "2012 - 2019"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          I studied a general curriculum oriented towards sciences, indeed I was in physics-chemistry speciality, and in music option. 
+          During these years I was also able to participate in different clubs, including a 3D design club, where I learned to use Fusion 360.
+
 
   # Achievements
   achievements:
