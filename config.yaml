@@ -94,11 +94,13 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/file/d/10v_JopypFMf9697MXR_sovZXYGEjhcd4/view?usp=sharing"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/RaKk0o
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/clémence-faligot/
 
   # About
   about:
