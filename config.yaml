@@ -133,6 +133,10 @@ params:
         date: "Jan 2022 - Apr 2022"
         content: |
           Setting up a VPN, using Docker. Automating installations via Ansible and Kubernetes. Virtualization.
+        featuredLink:
+          enable: true
+          name: "Letter of appreciation (fr)"
+          url: "https://drive.google.com/file/d/1of4V3SsI3ZlIMb_W6Yv9B1Wo5f7FJGfj/view?usp=sharing"
 
       - job: "User support (Internship)"
         company: "Faurecia"
