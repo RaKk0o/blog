@@ -127,31 +127,33 @@ params:
   experience:
     enable: true
     items:
-      - job: "Networks and Infrastructure"
+      - job: "Networks and Infrastructure (Internship)"
         company: "Linguanomics RD"
         companyUrl: "https://www.linguanomics.com/"
         date: "Jan 2022 - Apr 2022"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          Setting up a VPN, using Docker. Automating installations via Ansible and Kubernetes. Virtualization.
 
+      - job: "User support (Internship)"
+        company: "Faurecia"
+        companyUrl: "http://faurecia.com/"
+        date: "Apr 2021 - Jul 2021"
+        content: |
+          Worked in an IT team as user support, took part in internal migrations, routines, ITOPE audit preparation, Raspberry Pi configuration.
+      
+      - job: "Summer auxiliary"
+        company: "Société générale"
+        companyUrl: "https://particuliers.societegenerale.fr/"
+        date: "July 2021"
+        content: |
+          Greeted and gave physical and telephone orientation to customers. Performed routine operations at the counter according to safety rules and instructions.
+
+      - job: "Order picker"
+        company: "Vynex"
+        companyUrl: "https://www.rocket.eu/"
+        date: "Sep 2020 - Dec 2021"
+        content: |
+          Picking and gathering of furniture hardware items in the quantity specified by the order prior to order shipment.
   # Education
   education:
     enable: true
@@ -174,7 +176,6 @@ params:
           I studied a general curriculum oriented towards sciences, indeed I was in physics-chemistry speciality, and in music option. 
           During these years I was also able to participate in different clubs, including a 3D design club, where I learned to use Fusion 360.
 
-
   # Achievements
   achievements:
     enable: true
@@ -182,16 +183,7 @@ params:
       - title: Google kickstart runner
         content: I solved all problems with optimal solution.
         url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+
 
   # projects
   projects:
