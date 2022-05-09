@@ -108,18 +108,20 @@ params:
     title: "About Me"
     image: "/img/avatar.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am a student engineer with a passion for networks in general. I am currently studying computer science, and I am very interested in the SRE profession. I am passionate about art and music, I have practiced a few years in conservatory. I also love to travel and discover new cultures and landscapes.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "HTML"
         - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "C++"
+        - "C#"
+        - "Python"
+        - "Ansible"
+        - "Kubernetes"
+        - "Docker"
+        - "GitLab"
 
   # Experience
   experience:
