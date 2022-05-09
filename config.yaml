@@ -195,6 +195,69 @@ params:
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/sysprog/
+      
+      - title: Information system
+        content: Administration of an I.S. using PowerShell, Firewall, VPN,...
+        image: /img/projects/isystem.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/isystem/
+                
+      - title: Web development
+        content: Creation of LinkedIn type website using HTML, CSS, PHP, JS.
+        image: /img/projects/webdev.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/webdev/
+                
+      - title: Network
+        content: Configuration of networks via Packet Tracer using CISCO.
+        image: /img/projects/network.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/network/
+                
+      - title: Object-oriented programming
+        content: Realization of a management application using C++.
+        image: /img/projects/oop.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/oop/
+                
+      - title: Embedded system
+        content: Realization of a weather station using Arduino.
+        image: /img/projects/embeddedsystem.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/embeddedsystem/
+                          
+      - title: Industry
+        content: Study of the conception to the production of a product.
+        image: /img/projects/industry.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/industry/
+                          
+      - title: Data Base
+        content: Creation, management, and queries in the database using MySQL.
+        image: /img/projects/database.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/database/
+                          
+      - title: Signal
+        content: Realization of communication programs using Python.
+        image: /img/projects/signal.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/signal/
+                          
+      - title: Electronics
+        content: Realization of a security system using Arduino.
+        image: /img/projects/electronics.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/electronics/
 
   #Contact
   contact:
