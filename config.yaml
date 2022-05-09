@@ -189,23 +189,12 @@ params:
   projects:
     enable: true
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: System programming
+        content: Realization of 3 versions of a backup software using C#.
+        image: /img/projects/sysprog.png
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+          name: Read More
+          link: https://rakk0o.aphorya.fr/blogs/sysprog/
 
       - title: Image Converter
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
