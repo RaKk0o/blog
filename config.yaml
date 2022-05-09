@@ -188,6 +188,9 @@ params:
         content: Aeronautical initiation certificate.
         # url: 
 
+      - title: Driving licence
+        # content: 
+        # url: 
 
   # projects
   projects:
