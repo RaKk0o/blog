@@ -1,6 +1,6 @@
 ---
 title: "Embedded system"
-date: 2020-10-24T12:15:16+02:00
+date: 2020-09-24T12:15:16+02:00
 draft: false
 author: Clemence
 tags:
