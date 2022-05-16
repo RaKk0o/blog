@@ -1,6 +1,6 @@
 ---
 title: "Embedded system"
-date: 2022-05-08T12:15:16+02:00
+date: 2020-10-24T12:15:16+02:00
 draft: false
 author: Clemence
 tags:
@@ -20,21 +20,21 @@ How to make a simple and effective weather station?
 First of all, we had the following hardware:
 - An AVR ATmega328 microcontroller integrated to the Arduino board to design the prototype.
 - Various components :
-  o SD card reader (SPI) which will allow the saving of the sensors' data
-  o RTC clock (I2C) that will allow the system to know the date and time of day.
-  o RGB LED (2-wire) which will allow to communicate the status of the system
-  o 2 push buttons (digital) that will allow interaction with the system
+  - SD card reader (SPI) which will allow the saving of the sensors' data
+  - RTC clock (I2C) that will allow the system to know the date and time of day.
+  - RGB LED (2-wire) which will allow to communicate the status of the system
+  - 2 push buttons (digital) that will allow interaction with the system
 - Different sensors :
-  o Air pressure (I2C or SPI)
-  o Air temperature (I2C or SPI)
-  o Hygrometry (I2C or SPI)
-  o GPS (UART)
-  o Brightness (analog)
+  - Air pressure (I2C or SPI)
+  - Air temperature (I2C or SPI)
+  - Hygrometry (I2C or SPI)
+  - GPS (UART)
+  - Brightness (analog)
 - Various additional third-party modules that will be integrated into the project later on:
-  o Water temperature (analog)
-  o Sea current force (I2C)
-  o Wind force (I2C)
-  o Fine particle rate (2-wire)
+  - Water temperature (analog)
+  - Sea current force (I2C)
+  - Wind force (I2C)
+  - Fine particle rate (2-wire)
 
 We started by making several diagrams to better understand the functioning of our future weather station. In particular by representing the use cases, but also the triggers of certain events.
 
