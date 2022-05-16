@@ -1,5 +1,5 @@
 ---
-title: "POO"
+title: "OOP"
 date: 2020-12-04T12:15:16+02:00
 draft: false
 author: Clemence
