@@ -194,7 +194,6 @@ params:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/aphorya/
 
-    items:
       - title: Filebackup (personnal)
         content: File storage web application.
         image: /img/projects/fbackup.png
@@ -203,7 +202,6 @@ params:
           link: https://rakk0o.aphorya.fr/blogs/fbackup/
 
 # school projects    
-    items:
       - title: Storage and Big Data (school)
         content: Connection to different databases using Talend, data modeling with Power Bi.
         image: /img/projects/bigdata.png
