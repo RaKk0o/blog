@@ -199,7 +199,7 @@ params:
         image: /img/projects/fbackup.png
         featured:
           name: Read more
-          link: https://rakk0o.aphorya.fr/blogs/fbackup/
+          link: https://rakk0o.aphorya.fr/blogs/filebackup/
 
 # school projects    
       - title: Storage and Big Data (school)
