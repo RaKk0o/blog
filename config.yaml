@@ -184,78 +184,97 @@ params:
   # projects
   projects:
     enable: true
+
+# personnal project
     items:
-      - title: Storage and Big Data
+      - title: Aphorya (personnal)
+        content: Social network oriented towards the gaming community.
+        image: /img/projects/aphorya.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/aphorya/
+
+    items:
+      - title: Filebackup (personnal)
+        content: File storage web application.
+        image: /img/projects/fbackup.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/fbackup/
+
+# school projects    
+    items:
+      - title: Storage and Big Data (school)
         content: Connection to different databases using Talend, data modeling with Power Bi.
         image: /img/projects/bigdata.png
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/bigdata/
 
-      - title: System programming
+      - title: System programming (school)
         content: Realization of 3 versions of a backup software using C#.
         image: /img/projects/sysprog.png
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/sysprog/
       
-      - title: Information system
+      - title: Information system (school)
         content: Administration of an I.S. using PowerShell, Firewall, VPN,...
         image: /img/projects/isystem.png
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/isystem/
                 
-      - title: Web development
+      - title: Web development (school)
         content: Creation of LinkedIn type website using HTML, CSS, PHP, JS.
         image: /img/projects/webdev.png
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/webdev/
                 
-      - title: Network
+      - title: Network (school)
         content: Configuration of networks via Packet Tracer using CISCO.
         image: /img/projects/network.png
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/network/
                 
-      - title: Object-oriented programming
+      - title: Object-oriented programming (school)
         content: Realization of a management application using C++.
         image: /img/projects/oop.png
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/oop/
                 
-      - title: Embedded system
+      - title: Embedded system (school)
         content: Realization of a weather station using Arduino.
         image: /img/projects/embeddedsystem.png
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/embeddedsystem/
                           
-      - title: Industry
+      - title: Industry (school)
         content: Study of the conception to the production of a product.
         image: /img/projects/industry.png
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/industry/
                           
-      - title: Data Base
+      - title: Data Base (school)
         content: Creation, management, and queries in the database using MySQL.
         image: /img/projects/database.png
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/database/
                           
-      - title: Signal
+      - title: Signal (school)
         content: Realization of communication programs using Python.
         image: /img/projects/signal.png
         featured:
           name: Read more
           link: https://rakk0o.aphorya.fr/blogs/signal/
                           
-      - title: Electronics
+      - title: Electronics (school)
         content: Realization of a security system using Arduino.
         image: /img/projects/electronics.png
         featured:
