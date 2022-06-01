@@ -185,6 +185,13 @@ params:
   projects:
     enable: true
     items:
+      - title: Storage and Big Data
+        content: Connection to different databases using Talend, data modeling with Power Bi.
+        image: /img/projects/bigdata.png
+        featured:
+          name: Read more
+          link: https://rakk0o.aphorya.fr/blogs/bigdata/
+
       - title: System programming
         content: Realization of 3 versions of a backup software using C#.
         image: /img/projects/sysprog.png
