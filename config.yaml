@@ -75,7 +75,7 @@ params:
     title: "Clémence."
     subtitle: "Engineering student in computer science"
     content: "Currently in engineering school at CESI. I always have been curious and wanted to learn new skills and create things. I am looking for a rewarding experience. I like to take on challenges and give the best of myself. I always work with rigor and respect, while remaining attentive"
-    image: "/img/avatar.png"
+    image: "/img/me.png"
     button:
       enable: true
       name: "Resume"
@@ -91,7 +91,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/img/avatar.png"
+    image: "/img/me.png"
     content: |-
       I am a student engineer with a passion for networks in general. I am currently studying computer science, and I am very interested in the SRE profession. I am passionate about art and music, I have practiced a few years in conservatory. I also love to travel and discover new cultures and landscapes.
     skills:
