@@ -81,7 +81,7 @@ We also have some constraints:
 
 Some mock-ups are also made, like the connection page for example:
 
-![Connect](/img/projects/aphorya/connectalgo.png)
+![Connect](/img/projects/aphorya/connect.png)
 
 We have also already implemented account creation and login, especially through the Discord API.
 
