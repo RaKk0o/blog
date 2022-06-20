@@ -74,7 +74,7 @@ params:
     intro: "Hi, my name is"
     title: "Clémence."
     subtitle: "Engineering student in computer science"
-    content: "Currently in engineering school at CESI. I always have been curious and wanted to learn new skills and create things. I am looking for a rewarding experience. I like to take on challenges and give the best of myself. I always work with rigor and respect, while remaining attentive"
+    content: "Currently in engineering school at CESI. I have always been curious and wanted to learn new skills and create things. I am looking for a rewarding experience. I like to take on challenges and give the best of myself. I always work with rigor and respect, while remaining attentive"
     image: "/img/me.png"
     button:
       enable: true
