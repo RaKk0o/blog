@@ -99,14 +99,15 @@ params:
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "HTML"
-        - "CSS"
-        - "C++"
-        - "C#"
         - "Python"
+        - "CSS"
         - "Ansible"
+        - "C++"
         - "Kubernetes"
+        - "C#" 
         - "Docker"
         - "GitLab"
+        - "SQL"
 
   # Experience
   experience:
