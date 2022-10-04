@@ -170,16 +170,28 @@ params:
   achievements:
     enable: true
     items:
+      - title: CSS
+        content: HackerRank certificate, obtained on 10/04/2022.
+        url: https://www.hackerrank.com/certificates/e87996b8aa23
+
+      - title: Python (Basic)
+        content: HackerRank certificate, otained on 10/03/2022.
+        url: https://www.hackerrank.com/certificates/3e96baaef945
+
+      - title: SQL (Basic)
+        content: HackerRank certificate, otained on 10/03/2022.
+        url: https://www.hackerrank.com/certificates/ffe369a0bb6e
+
       - title: Cisco CCNA1
         content: Obtained on 05/02/2021.
         url: https://drive.google.com/file/d/1vcvTn1GfK8FJ6660m45GcfArKIjkxuOn/view?usp=sharing
-      
-      - title: BIA
-        content: Aeronautical initiation certificate.
-        # url: 
 
       - title: Driving licence
         # content: 
+        # url: 
+      
+      - title: BIA
+        content: Aeronautical initiation certificate.
         # url: 
 
   # projects
