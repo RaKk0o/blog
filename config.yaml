@@ -147,6 +147,7 @@ params:
   # Education
   education:
     enable: true
+    title: Education
     # index: true
     items:
       - title: "Engineering diploma in Computer Science"
@@ -295,6 +296,7 @@ params:
   #Contact
   contact:
     enable: true
+    title: Get in touch
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     email: clemence.faligot@viacesi.fr
     btnName: Mail me
