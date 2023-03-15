@@ -113,6 +113,12 @@ params:
   experience:
     enable: true
     items:
+      - job: "IT trainee (Internship)"
+        company: "CNP St Martin (It4Anxiety project)"
+        companyUrl: "https://www.cp-st-martin.be/"
+        date: "Sep 2022 - Feb 2023"
+        content: |
+          Improvement of an online training platform for about fifty health professionals and future health professionals, follow-up of the technological innovations developed, support and communication with over twenty partners.
       - job: "Networks and Infrastructure (Internship)"
         company: "Linguanomics RD"
         companyUrl: "https://www.linguanomics.com/"
