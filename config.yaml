@@ -85,7 +85,7 @@ params:
         - icon: fab fa-github
           url: https://github.com/RaKk0o
         - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/clémence-faligot/
+          url: https://www.linkedin.com/in/clemence-faligot/
 
   # About
   about:
@@ -119,6 +119,7 @@ params:
         date: "Sep 2022 - Feb 2023"
         content: |
           Improvement of an online training platform for about fifty health professionals and future health professionals, follow-up of the technological innovations developed, support and communication with over twenty partners.
+      
       - job: "Networks and Infrastructure (Internship)"
         company: "Linguanomics RD"
         companyUrl: "https://www.linguanomics.com/"
@@ -177,6 +178,10 @@ params:
   achievements:
     enable: true
     items:
+      - title: Problem Solving (Bqsic)
+        content: Obtained on 09/11/2023.
+        url: https://www.hackerrank.com/certificates/c05cf65c736c
+
       - title: CSS
         content: HackerRank certificate, obtained on 10/04/2022.
         url: https://www.hackerrank.com/certificates/e87996b8aa23
