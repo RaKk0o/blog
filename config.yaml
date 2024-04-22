@@ -1,6 +1,6 @@
 baseURL: "https://rakk0o.aphorya.fr"
 languageCode: "en-us"
-title: "Clémence FALIGOT"
+title: "Clemence FALIGOT"
 theme: hugo-profile
 
 Paginate: 3
@@ -79,7 +79,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/10v_JopypFMf9697MXR_sovZXYGEjhcd4/view?usp=sharing"
+      url: "https://drive.google.com/file/d/10IrOxIVDT_D9Ts2cVf_HuxzhSzfHrixs/view?usp=sharing"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -98,9 +98,9 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
+        - "Terraform"
         - "Python"
-        - "CSS"
+        - "AWS"
         - "Ansible"
         - "C++"
         - "Kubernetes"
@@ -108,11 +108,20 @@ params:
         - "Docker"
         - "GitLab"
         - "SQL"
+        - "Datadog"
+        - "CI/CD"
 
   # Experience
   experience:
     enable: true
     items:
+      - job: "Cloud Engineer Intern (Internship)"
+        company : ARHS Spikeseed
+        companyURL: "https://www.arhs-group.com/entities/spikeseed/"
+        date: "Feb 2024 - Jul 2024"
+        content: |
+          Development of a cost aggregator system to analyze project expenses by service provider (Datadog, GCP, Azure, ...). Utilized GitLab CI/CD, Python Lambdas, Terraform, Aurora Serverless, and other AWS features.
+
       - job: "IT trainee (Internship)"
         company: "CNP St Martin (It4Anxiety project)"
         companyUrl: "https://www.cp-st-martin.be/"
@@ -178,7 +187,7 @@ params:
   achievements:
     enable: true
     items:
-      - title: Problem Solving (Bqsic)
+      - title: Problem Solving (Basic)
         content: Obtained on 09/11/2023.
         url: https://www.hackerrank.com/certificates/c05cf65c736c
 
